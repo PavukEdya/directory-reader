@@ -1,0 +1,15 @@
+C:\Users\shaki\source\repos\DirectoryReader\DirectoryReader\bin\Debug\net7.0\DirectoryReader.exe
+C:\Users\shaki\source\repos\DirectoryReader\DirectoryReader\bin\Debug\net7.0\DirectoryReader.deps.json
+C:\Users\shaki\source\repos\DirectoryReader\DirectoryReader\bin\Debug\net7.0\DirectoryReader.runtimeconfig.json
+C:\Users\shaki\source\repos\DirectoryReader\DirectoryReader\bin\Debug\net7.0\DirectoryReader.dll
+C:\Users\shaki\source\repos\DirectoryReader\DirectoryReader\bin\Debug\net7.0\DirectoryReader.pdb
+C:\Users\shaki\source\repos\DirectoryReader\DirectoryReader\obj\Debug\net7.0\DirectoryReader.csproj.AssemblyReference.cache
+C:\Users\shaki\source\repos\DirectoryReader\DirectoryReader\obj\Debug\net7.0\DirectoryReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaki\source\repos\DirectoryReader\DirectoryReader\obj\Debug\net7.0\DirectoryReader.AssemblyInfoInputs.cache
+C:\Users\shaki\source\repos\DirectoryReader\DirectoryReader\obj\Debug\net7.0\DirectoryReader.AssemblyInfo.cs
+C:\Users\shaki\source\repos\DirectoryReader\DirectoryReader\obj\Debug\net7.0\DirectoryReader.csproj.CoreCompileInputs.cache
+C:\Users\shaki\source\repos\DirectoryReader\DirectoryReader\obj\Debug\net7.0\DirectoryReader.dll
+C:\Users\shaki\source\repos\DirectoryReader\DirectoryReader\obj\Debug\net7.0\refint\DirectoryReader.dll
+C:\Users\shaki\source\repos\DirectoryReader\DirectoryReader\obj\Debug\net7.0\DirectoryReader.pdb
+C:\Users\shaki\source\repos\DirectoryReader\DirectoryReader\obj\Debug\net7.0\DirectoryReader.genruntimeconfig.cache
+C:\Users\shaki\source\repos\DirectoryReader\DirectoryReader\obj\Debug\net7.0\ref\DirectoryReader.dll
