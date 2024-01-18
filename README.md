@@ -1,4 +1,4 @@
-# Test task for the position C# Programmer | Python
+# Test task for the position Programmer C# 
 ## Task description
 Given text file, each line of which indicates the path to a folder or file.
 If the line describes a file, then the file size in bytes is indicated, separated by a space.
